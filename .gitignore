@@ -1,0 +1,9 @@
+*.exe
+*.in
+*.out
+*.h
+*.ans
+*.cbp
+*.depend
+*.layout
+**/src/
