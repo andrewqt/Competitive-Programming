@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1555424530 source:c:\users\andrew qi tang\documents\c++ projects\codeforces\_1093_e_intersectionofpermutations\src\_1093_e_intersectionofpermutations.cpp
+	<bits/stdc++.h>
+	<ext/pb_ds/assoc_container.hpp>
+	<ext/pb_ds/tree_policy.hpp>
+

@@ -1,0 +1,15 @@
+#include <bits/stdc++.h>
+
+using namespace std;
+
+int N, M, Q;
+int perm[400005];
+int arr[400005];
+
+int main(){
+    cin >> N >> M >> Q;
+    for(int i = 1; i<=N; i++){
+        cin >> perm[i];
+    }
+
+}

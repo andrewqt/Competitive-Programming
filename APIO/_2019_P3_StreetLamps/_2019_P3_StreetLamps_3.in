@@ -1,0 +1,12 @@
+3 10
+010
+query 2 4
+toggle 1
+toggle 1
+query 1 2
+toggle 2
+toggle 1
+toggle 2
+toggle 1
+query 3 4
+query 2 3

@@ -1,0 +1,28 @@
+#include <bits/stdc++.h>
+
+using namespace std;
+
+int N;
+int MAXV = 500000;
+vector<int> fac[500005];
+int arr[200005];
+int typ[200005];
+long long cnt[500005];
+
+int main(){
+    for(int n = 2; n<=MAXV; n++){
+        if(fac[n].empty() && typ[i] != -1){
+            for(int i = n; i<=MAXV; i+=n){
+                if(typ[i] != -1){
+                    fac[i].push_back(n);
+                    typ[i]++;
+                }
+            }
+            for(long long i = 1LL*n*n; i<=MAXV; i+=1LL*n*n){
+                typ[i] = -1;
+            }
+        }
+    }
+    cin >> N;
+    long long tot = 0;
+}
