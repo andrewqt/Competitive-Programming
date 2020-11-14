@@ -6,4 +6,5 @@
 *.cbp
 *.depend
 *.layout
-**/src/
+*.cpp.save-failed
+*.o
