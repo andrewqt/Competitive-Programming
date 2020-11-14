@@ -2,3 +2,7 @@
 *.in
 *.out
 *.h
+*.ans
+*.cbp
+*.depend
+*.layout
