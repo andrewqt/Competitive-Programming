@@ -1,9 +1,0 @@
-# depslib dependency file v1.0
-1543876421 source:c:\users\andrew qi tang\documents\c++ projects\questions\anothertest\src\main.cpp
-	"Main.h"
-
-1543876421 c:\users\andrew qi tang\documents\c++ projects\questions\anothertest\include\main.h
-
-1562094229 source:c:\users\andrew qi tang\documents\c++ projects\questions\anothertest\src\anothertest.cpp
-	<bits/stdc++.h>
-
