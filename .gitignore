@@ -8,3 +8,4 @@
 *.layout
 *.cpp.save-failed
 *.o
+*/src/
